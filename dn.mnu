@@ -1,0 +1,46 @@
+>1 Сравнить !.! и $:$\$.$
+  start /n /f  gfc !.! $:$\$.$
+>1 Сравнить !.! и $:$\!.!
+  start /n /f  gfc !.! $:$\!.!
+>1 Очистить exe.os2
+   for %%i in (vpi lib bak lnk obj dll exe lng dlg hlp inc pas) do del EXE.OS2\*.%%i
+>1 Очистить exe.w32
+   for %%i in (vpi lib bak lnk obj dll exe lng dlg hlp inc pas) do del EXE.W32\*.%%i
+>1 Очистить exe.d32
+   for %%i in (vpi lib bak lnk obj dll exe lng dlg hlp inc pas) do del EXE.D32\*.%%i
+   del EXE.D32\dn.prg
+>1 ~C~ Перекомпилировать DN (OS/2)
+ vpc dn /m /dDN /dDNPRG /q  /cO
+>1 Перекомпилировать DN (Win32)
+ vpc dn /m /dDN /dDNPRG /q  /cW
+>1 ~R~ Перекомпилировать ресурсы (OS/2)
+  exe.%HostOS%\rcp O OS2
+>1 Перекомпилировать ресурсы (Win32)
+  exe.%HostOS%\rcp W Win32
+>1 ~H~ Перекомпилировать хелп
+EXE.%HostOS%\tvhc resource\english\dnhelp.htx EXE.OS2\english.hlp EXE.OS2\dnhelp.pas /4DN_OSP
+EXE.%HostOS%\tvhc resource\english\dnhelp.htx EXE.W32\english.hlp EXE.W32\dnhelp.pas /4DN_OSP
+EXE.%HostOS%\tvhc resource\russian\dnhelp.htx EXE.OS2\russian.hlp EXE.OS2\dnhelp.pas /4DN_OSP
+EXE.%HostOS%\tvhc resource\russian\dnhelp.htx EXE.W32\russian.hlp EXE.W32\dnhelp.pas /4DN_OSP
+EXE.%HostOS%\tvhc resource\ukrain\dnhelp.htx EXE.OS2\ukrain.hlp EXE.OS2\dnhelp.pas /4DN_OSP
+EXE.%HostOS%\tvhc resource\ukrain\dnhelp.htx EXE.W32\ukrain.hlp EXE.W32\dnhelp.pas /4DN_OSP
+
+>1 ~D~ Вызвать DN
+  start /n /i exe.%HostOS%\dn
+>1 ~V~P
+  start /n /f vp
+>1 извлечь из архива файл !.!
+  uc e C:\arch\DNOSPOS2 !\!.!
+>1 CRC
+  crc * > N:\crc
+>1 diff1
+  _diff1 %1
+>1 Создать автохелп
+  I:\DN_Util\EXE.%HostOS%\autohelp *.pas *._vp *.inc LIB.OS2\*.pas LIB.W32\*.pas
+  pause
+  I:\DN_Util\EXE.%HostOS%\MK_H_IND.EXE < autohelp.txt | sort /+68  > dnprgh.ind
+  @echo ~DN_Comments DN_Comments > dnprgh.tit
+  hg  /p dnprgh.tit dnprgh.ind autohelp.txt , dn2.vph
+  pause
+  copy dn2.vph I:\VP21\COMMON
+  del autohelp.txt dn2.vph dnprgh.ind dnprgh.tit

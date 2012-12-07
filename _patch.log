@@ -1,0 +1,611 @@
+ 
+..\PAT\ver.dif 
+patching file `version.pas'
+ 
+..\PAT\ak70703a.dif 
+patching file `DNUTIL.PAS'
+patching file `USERMENU.PAS'
+ 
+..\PAT\ak70703b.dif 
+patching file `ADVANCE2.PAS'
+patching file `DNUTIL.PAS'
+patching file `MICROED.PAS'
+ 
+..\PAT\mv70608a.dif 
+patching file `arc_tgz.pas'
+Hunk #1 succeeded at 223 (offset -2 lines).
+ 
+..\PAT\mv70615a.dif 
+patching file `ARCHIVER.PAS'
+Hunk #1 succeeded at 1693 (offset 2 lines).
+ 
+..\PAT\ak70703c.dif 
+patching file `FILECOPY.PAS'
+ 
+..\PAT\ak70703d.dif 
+patching file `FILECOPY.PAS'
+ 
+..\PAT\ak70703e.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\mv70709a.dif 
+patching file `FVIEWER.PAS'
+ 
+..\PAT\ak70711a.dif 
+patching file `FILECOPY.PAS'
+ 
+..\PAT\ak70712a.dif 
+patching file `FILECOPY.PAS'
+ 
+..\PAT\ak70712b.dif 
+patching file `startupp.pas'
+ 
+..\PAT\ak70716b.dif 
+patching file `ADVANCE.PAS'
+ 
+..\PAT\ak70724a.dif 
+patching file `FILECOPY.PAS'
+ 
+..\PAT\ak70724c.dif 
+patching file `advance6.pas'
+patching file `DNUTIL.PAS'
+patching file `EDITOR.PAS'
+patching file `FVIEWER.PAS'
+ 
+..\PAT\ak70724b.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak70820a.dif 
+patching file `lfnvp.pas'
+ 
+..\PAT\ak70821a.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak70910a.dif 
+patching file `cmdline.pas'
+patching file `histries.pas'
+ 
+..\PAT\ak80108a.dif 
+patching file `FILECOPY.PAS'
+ 
+..\PAT\ak80127a.dif 
+patching file `FILECOPY.PAS'
+ 
+..\PAT\ak80128a.dif 
+patching file `flpanel.pas'
+patching file `RESOURCE/ENGLISH/dn.dnr'
+patching file `RESOURCE/RUSSIAN/dn.dnr'
+patching file `RESOURCE/RUSSIAN/dnhelp.htx'
+patching file `RESOURCE/UKRAIN/dn.dnr'
+patching file `XDblWnd.pas'
+ 
+..\PAT\ak80129a.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak80130a.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+patching file `FILECOPY.PAS'
+ 
+..\PAT\mv80201a.dif 
+patching file `DNUTIL.PAS'
+ 
+..\PAT\vk80201a.dif 
+patching file `RESOURCE/UKRAIN/dnhelp.htx'
+ 
+..\PAT\ak80202b.dif 
+patching file `FILECOPY.PAS'
+Hunk #1 succeeded at 486 (offset 1 line).
+Hunk #3 succeeded at 945 (offset 1 line).
+Hunk #5 succeeded at 1630 (offset 1 line).
+Hunk #7 succeeded at 2553 (offset 1 line).
+ 
+..\PAT\mv80207a.dif 
+patching file `FVIEWER.PAS'
+ 
+..\PAT\ak80208a.dif 
+patching file `ccalc.pas'
+ 
+..\PAT\ak80208b.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak80212a.dif 
+patching file `FILECOPY.PAS'
+Hunk #1 succeeded at 922 (offset 1 line).
+ 
+..\PAT\ak80215a.dif 
+patching file `ccalc.pas'
+patching file `EDITOR.PAS'
+ 
+..\PAT\ak80222a.dif 
+patching file `Calculat.pas'
+ 
+..\PAT\jo80222a.dif 
+patching file `microed.pas'
+patching file `RESOURCE/ENGLISH/dn.dnr'
+patching file `RESOURCE/RUSSIAN/dn.dnr'
+patching file `RESOURCE/UKRAIN/dn.dnr'
+patching file `views.pas'
+ 
+..\PAT\ak80223a.dif 
+patching file `FILECOPY.PAS'
+ 
+..\PAT\ak80302a.dif 
+patching file `dnini.pas'
+patching file `DOC/ENGLISH/dnini.txt'
+patching file `EXE.D32/dn.ini'
+patching file `EXE.OLF/dn.ini'
+patching file `EXE.WLF/dn.ini'
+ 
+..\PAT\ak80302b.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak80315a.dif 
+patching file `eraser.pas'
+ 
+..\PAT\ak70707a.dif 
+patching file `RESOURCE/ENGLISH/dn.dnl'
+patching file `RESOURCE/RUSSIAN/dn.dnl'
+patching file `RESOURCE/RUSSIAN/dnhelp.htx'
+patching file `RESOURCE/UKRAIN/dn.dnl'
+patching file `RESOURCE/UKRAIN/dnhelp.htx'
+patching file `USERMENU.PAS'
+ 
+..\PAT\ak80304a.dif 
+patching file `drives.pas'
+ 
+..\PAT\ak80316a.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak80320a.dif 
+patching file `DIALOGS.PAS'
+patching file `dnini.pas'
+patching file `dnini_p.pas'
+patching file `histlist.pas'
+patching file `histries.pas'
+ 
+..\PAT\ak80321a.dif 
+patching file `FILECOPY.PAS'
+ 
+..\PAT\ak80321b.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak80425a.dif 
+patching file `eraser.pas'
+ 
+..\PAT\ak80530a.dif 
+patching file `ADVANCE2.PAS'
+patching file `ARCHIVER.PAS'
+patching file `arcview.pas'
+patching file `ARVID.PAS'
+patching file `ARVIDAVT.PAS'
+patching file `cmdline.pas'
+patching file `commands.pas'
+patching file `DblWnd.pas'
+patching file `diskimg.pas'
+patching file `DISKINFO.PAS'
+patching file `DNAPP.PAS'
+patching file `DNUTIL.PAS'
+patching file `drives.pas'
+patching file `eraser.pas'
+patching file `FBB.PAS'
+patching file `FILECOPY.PAS'
+patching file `filefind.pas'
+patching file `filelst.pas'
+patching file `flpanel.pas'
+patching file `flpanelx.pas'
+patching file `FLTools.pas'
+patching file `objtype.pas'
+patching file `regall.pas'
+patching file `RESOURCE/ENGLISH/dn.dnl'
+patching file `RESOURCE/ENGLISH/dn.dnr'
+patching file `RESOURCE/RUSSIAN/dn.dnl'
+patching file `RESOURCE/RUSSIAN/dn.dnr'
+patching file `RESOURCE/RUSSIAN/dnhelp.htx'
+patching file `RESOURCE/UKRAIN/dn.dnl'
+patching file `RESOURCE/UKRAIN/dn.dnr'
+patching file `tree.pas'
+patching file `UUCODE.PAS'
+patching file `XDblWnd.pas'
+ 
+..\PAT\ak80530b.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak80702a.dif 
+patching file `FlPanelX.pas'
+ 
+..\PAT\ak80702b.dif 
+patching file `RESOURCE/ENGLISH/dn.dnr'
+patching file `RESOURCE/RUSSIAN/dn.dnr'
+patching file `RESOURCE/UKRAIN/dn.dnr'
+ 
+..\PAT\ak80708a.dif 
+patching file `advance1.pas'
+ 
+..\PAT\ak80708b.dif 
+patching file `DIALOGS.PAS'
+ 
+..\PAT\ak80708c.dif 
+patching file `dnhelp.pas'
+ 
+..\PAT\ak80708d.dif 
+patching file `RESOURCE/ENGLISH/dn.dnr'
+patching file `RESOURCE/RUSSIAN/dn.dnr'
+patching file `RESOURCE/UKRAIN/dn.dnr'
+ 
+..\PAT\ak80709a.dif 
+patching file `read.me'
+ 
+..\PAT\ak80709b.dif 
+patching file `DN1.PAS'
+patching file `dnexec.pas'
+patching file `dnini.pas'
+patching file `dnini_p.pas'
+patching file `DOC/ENGLISH/dnini.txt'
+patching file `EXE.D32/dn.ini'
+patching file `EXE.OLF/dn.ini'
+patching file `EXE.WLF/dn.ini'
+patching file `filetype.pas'
+ 
+..\PAT\ak80710a.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\cat80710.dif 
+patching file `ADVANCE.PAS'
+patching file `cmdline.pas'
+patching file `flpanel.pas'
+ 
+..\PAT\cat80712.dif 
+patching file `DNAPP.PAS'
+ 
+..\PAT\ak80714a.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak80716a.dif 
+patching file `flpanel.pas'
+patching file `FlPanelX.pas'
+patching file `RESOURCE/ENGLISH/dnhelp.htx'
+patching file `RESOURCE/RUSSIAN/dnhelp.htx'
+patching file `RESOURCE/UKRAIN/dnhelp.htx'
+ 
+..\PAT\ak80716b.dif 
+patching file `RESOURCE/ENGLISH/dn.dnr'
+patching file `RESOURCE/ENGLISH/dnhelp.htx'
+Hunk #2 succeeded at 2599 (offset 2 lines).
+patching file `RESOURCE/RUSSIAN/dnhelp.htx'
+Hunk #1 succeeded at 2703 (offset 2 lines).
+patching file `RESOURCE/UKRAIN/dnhelp.htx'
+Hunk #1 succeeded at 2438 (offset 2 lines).
+patching file `tree.pas'
+patching file `dnhelp.pas'
+ 
+..\PAT\ak80716c.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\mv80724a.dif 
+patching file `ARC_7Z.PAS'
+patching file `arc_bz2.pas'
+patching file `arc_cab.pas'
+patching file `arc_tar.pas'
+patching file `arc_tgz.pas'
+patching file `arc_zip.pas'
+patching file `ARCHIVER.PAS'
+Hunk #1 succeeded at 548 (offset -2 lines).
+ 
+..\PAT\ak80724a.dif 
+patching file `FlPanelX.pas'
+ 
+..\PAT\ak80725a.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak81008a.dif 
+patching file `Calc.PAS'
+patching file `DIALOGS.PAS'
+ 
+..\PAT\ak81010a.dif 
+patching file `microed.pas'
+ 
+..\PAT\ak81010b.dif 
+patching file `pdsetup.pas'
+patching file `RESOURCE/ENGLISH/dn.dnl'
+patching file `RESOURCE/RUSSIAN/dn.dnl'
+patching file `RESOURCE/UKRAIN/dn.dnl'
+ 
+..\PAT\ak81205a.dif 
+patching file `Calculat.pas'
+patching file `drives.pas'
+patching file `filefind.pas'
+ 
+..\PAT\ak90122a.dif 
+patching file `ADVANCE.PAS'
+ 
+..\PAT\ak90122b.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak90123a.dif 
+patching file `DNAPP.PAS'
+ 
+..\PAT\ak90123b.dif 
+patching file `lfnvp.pas'
+ 
+..\PAT\mv90123a.dif 
+patching file `RESOURCE/ENGLISH/dn.dnr'
+patching file `RESOURCE/RUSSIAN/dn.dnr'
+patching file `RESOURCE/UKRAIN/dn.dnr'
+ 
+..\PAT\ak90129a.dif 
+patching file `DNAPP.PAS'
+patching file `rcp.pas'
+patching file `RESOURCE/ENGLISH/dn.dnr'
+patching file `RESOURCE/ENGLISH/dnhelp.htx'
+patching file `RESOURCE/RUSSIAN/dn.dnr'
+patching file `RESOURCE/RUSSIAN/dnhelp.htx'
+patching file `RESOURCE/UKRAIN/dn.dnr'
+patching file `RESOURCE/UKRAIN/dnhelp.htx'
+patching file `setups.pas'
+patching file `startup.pas'
+patching file `USERMENU.PAS'
+ 
+..\PAT\ak90129b.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\mv90206a.dif 
+patching file `DN1.PAS'
+ 
+..\PAT\mv90206b.dif 
+patching file `ARC_7Z.PAS'
+ 
+..\PAT\mv90206c.dif 
+patching file `archread.pas'
+patching file `commands.pas'
+patching file `DNUTIL.PAS'
+patching file `views.pas'
+ 
+..\PAT\ak90211a.dif 
+patching file `DNUTIL.PAS'
+patching file `menus.pas'
+patching file `RESOURCE/ENGLISH/dn.dnr'
+patching file `RESOURCE/RUSSIAN/dn.dnr'
+patching file `RESOURCE/UKRAIN/dn.dnr'
+patching file `usermenu.001'
+patching file `USERMENU.PAS'
+ 
+..\PAT\ak90211b.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak90216a.dif 
+patching file `microed.pas'
+ 
+..\PAT\ak90227a.dif 
+patching file `USERMENU.PAS'
+ 
+..\PAT\ak90227b.dif 
+patching file `ADVANCE2.PAS'
+ 
+..\PAT\ak90304a.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak90305a.dif 
+patching file `RESOURCE/RUSSIAN/dnhelp.htx'
+ 
+..\PAT\ak90417a.dif 
+patching file `FILECOPY.PAS'
+ 
+..\PAT\ak90417b.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak90817a.dif 
+patching file `_model1.pas'
+patching file `_streams.pas'
+patching file `ADVANCE.PAS'
+patching file `ADVANCE2.PAS'
+patching file `advance6.pas'
+patching file `ARCHIVER.PAS'
+patching file `arcview.pas'
+patching file `ARVID.PAS'
+patching file `defines.pas'
+patching file `diskimg.pas'
+patching file `DNStdDlg.pas'
+patching file `DNUTIL.PAS'
+patching file `drives.pas'
+patching file `ed2.pas'
+patching file `eraser.pas'
+patching file `FBB.PAS'
+patching file `FILECOPY.PAS'
+patching file `filediz.pas'
+patching file `filefind.pas'
+patching file `FlPanelX.pas'
+patching file `FLTools.pas'
+patching file `ftp_.001'
+patching file `ftp_.pas'
+patching file `FVIEWER.PAS'
+patching file `getconst.pas'
+patching file `histries.pas'
+patching file `lfnvp.pas'
+patching file `MICROED2.PAS'
+patching file `netbrwsr.pas'
+patching file `pdsetup.pas'
+patching file `PRINTMAN.PAS'
+patching file `PROFILE.PAS'
+patching file `stdefine.inc'
+patching file `STREAMS.PAS'
+patching file `tree.pas'
+patching file `tvhc.pas'
+patching file `U_MYAPP.PAS'
+patching file `u_srchf.pas'
+patching file `UUCODE.PAS'
+ 
+..\PAT\ak90420a.dif 
+patching file `flpanel.pas'
+ 
+..\PAT\ak90811a.dif 
+patching file `FVIEWER.PAS'
+ 
+..\PAT\ak90811c.dif 
+patching file `FILECOPY.PAS'
+ 
+..\PAT\mv90507a.dif 
+patching file `ARCHIVER.PAS'
+ 
+..\PAT\ak90811d.dif 
+patching file `arcview.pas'
+ 
+..\PAT\ak90812a.dif 
+patching file `filescol.pas'
+ 
+..\PAT\ak90817b.dif 
+patching file `FlPanelX.pas'
+ 
+..\PAT\ak90817c.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak90820a.dif 
+patching file `advance4.pas'
+patching file `cmdline.pas'
+patching file `dn.pas'
+patching file `DN1.PAS'
+patching file `dnexec.pas'
+patching file `DNUTIL.PAS'
+ 
+..\PAT\ak90820b.dif 
+patching file `ADVANCE.PAS'
+patching file `DN1.PAS'
+patching file `FlPanelX.pas'
+ 
+..\PAT\ak90821b.dif 
+patching file `FlPanelX.pas'
+ 
+..\PAT\mv91118a.dif 
+patching file `ARC_7Z.PAS'
+ 
+..\PAT\ak91121a.dif 
+patching file `DNUTIL.PAS'
+patching file `microed.pas'
+patching file `u_srchf.pas'
+ 
+..\PAT\ak91226a.dif 
+patching file `DISKINFO.PAS'
+patching file `LIB.WLF/fltl.pas'
+ 
+..\PAT\ak00329a.dif 
+patching file `ADVANCE2.PAS'
+patching file `drives.pas'
+patching file `FILECOPY.PAS'
+patching file `ftp_.001'
+patching file `ftp_.pas'
+patching file `lfnvp.pas'
+ 
+..\PAT\ak00330a.dif 
+patching file `advance1.pas'
+patching file `arc_zip.pas'
+patching file `ARCHDET.PAS'
+patching file `filefind.pas'
+patching file `FVIEWER.PAS'
+patching file `LIB.OLF/country_.pas'
+patching file `LIB.WLF/country_.pas'
+patching file `microed.pas'
+patching file `MICROED2.PAS'
+patching file `U_KEYMAP.PAS'
+ 
+..\PAT\ak00331a.dif 
+patching file `ccalc.pas'
+ 
+..\PAT\ak00404a.dif 
+patching file `drives.pas'
+patching file `FILECOPY.PAS'
+ 
+..\PAT\ak00404b.dif 
+patching file `ftp_.pas'
+ 
+..\PAT\ak00404c.dif 
+patching file `eraser.pas'
+patching file `FVIEWER.PAS'
+ 
+..\PAT\ak00406a.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak00407a.dif 
+patching file `FTP/aslAbsClient.pas'
+patching file `ftp_.pas'
+patching file `U_KEYMAP.PAS'
+ 
+..\PAT\ak00407b.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak00409a.dif 
+patching file `DISKINFO.PAS'
+patching file `ftp_.pas'
+ 
+..\PAT\ak00409b.dif 
+patching file `EDITOR.PAS'
+ 
+..\PAT\mv00419a.dif 
+patching file `arc_zip.pas'
+ 
+..\PAT\ak00430a.dif 
+patching file `ARCHDET.PAS'
+patching file `FTP/aslFTPClient.pas'
+patching file `ftp_.pas'
+ 
+..\PAT\ak00514a.dif 
+patching file `advance1.pas'
+patching file `U_KEYMAP.PAS'
+ 
+..\PAT\ak00514b.dif 
+patching file `ccalc.pas'
+ 
+..\PAT\ak00514c.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\ak01013a.dif 
+patching file `MICROED2.PAS'
+ 
+..\PAT\ak01013b.dif 
+patching file `U_KEYMAP.PAS'
+ 
+..\PAT\ak01014a.dif 
+patching file `advance1.pas'
+patching file `defines.pas'
+patching file `FVIEWER.PAS'
+patching file `microed.pas'
+patching file `U_KEYMAP.PAS'
+ 
+..\PAT\ak01014b.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\mv1004.dif 
+FAILED: not found 
+ 
+..\PAT\ak01213a.dif 
+patching file `EDITOR.PAS'
+patching file `microed.pas'
+ 
+..\PAT\ak01220a.dif 
+patching file `ftp_.pas'
+ 
+..\PAT\ak10109a.dif 
+patching file `ftp_.pas'
+Hunk #1 succeeded at 566 (offset 2 lines).
+ 
+..\PAT\ak10114a.dif 
+patching file `FlPanelX.pas'
+patching file `pdsetup.pas'
+ 
+..\PAT\ak10314a.dif 
+patching file `advance1.pas'
+patching file `U_KEYMAP.PAS'
+ 
+..\PAT\ak10314b.dif 
+patching file `DOC/RUSSIAN/news214d.txt'
+ 
+..\PAT\mv10313a.dif 
+patching file `lfnvp.pas'
+ 
+..\PAT\mv10314a.dif 
+patching file `LIB.WLF/vpsysw32.pas'
+ 
+..\PAT\mv10314b.dif 
+patching file `ARC_7Z.PAS'
+ 
+..\PAT\mv10315a.dif 
+patching file `LIB.WLF/vpsysw32.pas'
+
