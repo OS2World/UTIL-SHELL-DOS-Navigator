@@ -13,7 +13,7 @@ COMPILE TOOLS
 
 AUTHORS
 =============
-- RIT Research Labs
+- Alexey Korop
 
 LINKS
 =============
